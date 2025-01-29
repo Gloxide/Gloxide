@@ -2,8 +2,6 @@
 **Projects That i am currently working on:**
 
  - Thrust ([Thrust Site](https://sites.google.com/view/thrustgame))
- - Surugon (Theres no site, yet..)
- - Project Contract (a project i work on here and there)
  
  If you need any help with gdscript i can likely help you i have done a lot, especially with Godot 4
 if you need to reach out i recommend using my discord its @gloxide
